@@ -43,11 +43,13 @@ button.close {
 
 .btn-primary {
     color: #fff!important;
-    background: linear-gradient(135deg, #6e8efb, #a777e3)!important;
-    border: none!important;
+    background: #F6C512!important;
+    border-radius: 4px;
     margin-top: 20px!important;
     font-size: 16px!important;
     padding: 8px 25px!important;
+    font-family: Asap;
+  
 }
 
 .col-sm-6 {
@@ -74,7 +76,7 @@ button.close {
   position: relative;
   z-index: 1;
   display: block;
-  background: #FFFFFF;
+  background:radial-gradient(288.50px at 4.88% -83.53%, rgba(216, 216, 216, 0.22) 0%, rgba(27, 24, 24, 0.0264) 100%);
   border-radius: 30px;
   min-width: 100%;
   height: 324px;
